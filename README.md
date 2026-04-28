@@ -1,1 +1,1 @@
-# Computacao-movel
+# Computacao-Grafica
